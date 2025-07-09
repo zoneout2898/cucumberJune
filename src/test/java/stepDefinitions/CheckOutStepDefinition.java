@@ -46,6 +46,7 @@ public class CheckOutStepDefinition {
 		Assert.assertTrue(cop.VerifyPromoBtn());
 		Assert.assertTrue(cop.VerifyPlaceOrder());
 	}
+	//changes made
 
 
 
