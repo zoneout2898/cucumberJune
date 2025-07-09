@@ -47,6 +47,7 @@ public class CheckOutStepDefinition {
 		Assert.assertTrue(cop.VerifyPlaceOrder());
 	}
 	//changes made
+	//chages reverted
 
 
 
